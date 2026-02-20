@@ -25,20 +25,18 @@ I enjoy building real-world projects that solve business problems using data.
 
 ---
 
-## 📂 Featured Projects
-- Customer Churn Prediction
-- Loan Approval ML Model
-- Sentiment Analysis using NLP
-- RAG-based Chatbot
-- Sales Dashboard in Power BI
+## 📈 Currently Building Projects
+- Python Fundamentals Practice
+- Data Analysis Case Studies
+- Machine Learning Models
+- NLP Applications
+- Generative AI Projects
+
+🚀 Projects coming soon...
 
 ---
 
-## 📈 Currently Learning
-- Advanced Machine Learning
-- LLM Applications
-- Model Deployment
-- AI Engineering
+
 
 ---
 
